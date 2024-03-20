@@ -1,5 +1,6 @@
 import React from 'react'
-import './App'
+import './App.css'
+
 
 
 import { Brand, CTA, NavBar } from './components'
