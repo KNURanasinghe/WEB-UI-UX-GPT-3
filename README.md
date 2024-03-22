@@ -1,7 +1,7 @@
 # WEB-UI-UX-GPT-3
 
 
-![Project Logo](link_to_logo_if_available)
+![Project Logo](https://github.com/KNURanasinghe/WEB-UI-UX-GPT-3/blob/main/gpt3_jsm/src/assets/logo.svg)
 
 ## Description
 
